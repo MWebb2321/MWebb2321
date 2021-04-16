@@ -3,7 +3,7 @@
 ## I'm learning to be a fullstack web developer.
 
 - I'm currently working as a supervisor at Bevmo.
-- I'm currently learning about backend development.
+- I'm currently learning about backend development through UC Davis.
 
 ### Languages and Tools:
 
