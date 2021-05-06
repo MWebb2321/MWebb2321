@@ -34,7 +34,11 @@
 
 ---
 
-<img align="left" alt="mwebb2321's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mwebb2321&show_icons=true&hide_border=true" />
+[![MWebb2321's GitHub stats](https://github-readme-stats.vercel.app/api?username=MWebb2321&theme=gotham)](https://github.com/MWebb2321)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWebb2321&theme=gotham)](https://github.com/MWebb2321)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwebb2321&show_icons=true&hide_border=true)](https://github.com/mwebb2321) -->
 
